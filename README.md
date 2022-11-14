@@ -23,10 +23,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
-
 <img src="assets\assets-images">
-<img src="assets/images/screenshot.png">
 
 This prework study guide helps you understand how to create a HTML file and how HTML structures a webpage, how to create a CSS file and how to link it to the HTML file, how to add/use JavaScript variables, arrays, 'for' loops and JavaScript functions.  
 
